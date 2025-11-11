@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=barbosasantosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+
 - 🔭 Currently working on [Delfia](https://delfia.tech)  
 - 🌱 Focused on backend architecture, APIs, and distributed systems  
 - ⚙️ Building with Python, Go, and PostgreSQL  
@@ -54,10 +55,24 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=barbosasantosdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosasantosdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<h3 align="left">Main Projects:</h3>
+
+<ul>
+  <li>
+    <a href="https://github.com/barbosasantosdev/" target="_blank"><b>in progress</b></a> — pass.
+  </li>
+  <li>
+    <a href="https://github.com/barbosasantosdev/" target="_blank"><b>in progress</b></a> — pass.
+  </li>
+  <li>
+    <a href="https://github.com/barbosasantosdev/" target="_blank"><b>in progress</b></a> — pass.
+  </li>
+  <li>
+    <a href="https://github.com/barbosasantosdev/" target="_blank"><b>in progress</b></a> — pass.
+  </li>
+</ul>
+
+---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Nyantocat" width="800" />
 </p>
