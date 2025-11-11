@@ -5,6 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=barbosasantosdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg" width="700">
+  </picture>
+</p>
+
 
 - 🔭 Currently working on [Delfia](https://delfia.tech)  
 - 🌱 Focused on backend architecture, APIs, and distributed systems  
