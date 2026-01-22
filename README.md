@@ -67,7 +67,7 @@
 
 <ul>
   <li>
-    <a href="https://github.com/barbosasantosdev/" target="_blank"><b>in progress</b></a> — pass.
+    <a href="https://github.com/BarbosaSantosDev/backend-industrial-labels" target="_blank"><b>TraceCore</b></a>. 
   </li>
   <li>
     <a href="https://github.com/barbosasantosdev/" target="_blank"><b>in progress</b></a> — pass.
