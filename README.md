@@ -13,8 +13,7 @@
   </picture>
 </p>
 
-
-- 🔭 Currently working on [Delfia](https://delfia.tech)  
+  
 - 🌱 Focused on backend architecture, APIs, and distributed systems  
 - ⚙️ Building with Python, Go, and PostgreSQL  
 - 📫 Reach me at: **joaovitorbarbosadev@gmail.com**
