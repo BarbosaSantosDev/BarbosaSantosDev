@@ -51,7 +51,7 @@ Os projetos que estão em produção têm código fechado. Para esses, publiquei
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/BarbosaSantosDev/automax-erp-architecture"><b>AUTOMAX ERP</b></a><br/>
+      <a href="https://github.com/BarbosaSantosDev/abaku-erp-architecture"><b>Abaku</b></a><br/>
       ERP/PDV para bares, restaurantes e mercados pequenos, migrando um sistema em Visual FoxPro para Python. Emite NFC-e em produção, roda como SaaS com um banco PostgreSQL por cliente e tem PDV desktop em JavaFX que continua vendendo sem internet.<br/><br/>
       <sub>Python · FastAPI · PostgreSQL · Java · JavaFX · React · código privado</sub>
     </td>
@@ -68,13 +68,6 @@ Os projetos que estão em produção têm código fechado. Para esses, publiquei
       <sub>Python · FastAPI · LangChain · Ollama · PostgreSQL · React · código aberto</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/BarbosaSantosDev/barber-flow-architecture"><b>Barber Flow</b></a><br/>
-      SaaS de agendamento para barbearias que teve dois clientes pagantes. O repositório detalha a migração para multi-tenancy com migrations em expand/contract e um histórico de slugs protegido por trigger.<br/><br/>
-      <sub>Python · FastAPI · PostgreSQL · React · descontinuado</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <a href="https://github.com/BarbosaSantosDev/cofre-docs-backend"><b>cofre-docs</b></a><br/>
       API para guardar documentos PDF criptografados com envelope encryption e autenticação JWT.<br/><br/>
       <sub>Python · FastAPI · PostgreSQL · cryptography · código aberto</sub>
