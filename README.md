@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o João Vitor</h1>
+<h1 align="center">Olá</h1>
 <h3 align="center">Desenvolvedor backend Python</h3>
 
 <p align="center">
@@ -74,9 +74,3 @@ Os projetos que estão em produção têm código fechado. Para esses, publiquei
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="animação em pixel art" width="800" />
-</p>
